@@ -1,3 +1,11 @@
-.Weather {
-  border: 1px solid #e8e8e8;
+.App {
+  max-width: 600px;
+  margin: 30px auto;
+  font-family: Arial, sans-serif;
+  color: rgb(135, 135, 135);
+}
+.App footer {
+  font-size: 13px;
+  margin: 5px 0;
+  text-align: center;
 }
