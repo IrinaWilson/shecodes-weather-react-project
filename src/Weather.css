@@ -28,10 +28,7 @@
 }
 
 .Weather svg {
-  height: 64px;
   margin-right: 5px;
-  float: left;
-  width: 64px;
 }
 
 .Weather .temperature {
