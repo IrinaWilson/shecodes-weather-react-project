@@ -56,3 +56,8 @@
   color: white;
   backdrop-filter: 10px;
 }
+@media (max-width: 750px) {
+  .Weather {
+    padding: 30px;
+  }
+}
